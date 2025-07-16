@@ -26,7 +26,7 @@ namespace FiscalBr.Test.Sped.Bloco1
             Assert.Equal(100.13M, registro.ValFecha);
             Assert.Equal(55.20M, registro.ValAbert);
             Assert.Equal(10M, registro.VolAferi);
-            Assert.Equal(40M, registro.VolVendas); 
+            Assert.Equal(40M, registro.VolVendas);
         }        
     }
 }
